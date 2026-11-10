@@ -1,0 +1,889 @@
+{
+  "numbers": [
+    "49.2K to 100K subscribers in 19 months",
+    "7 months in a row above 1M organic views (Oct 2025 to Apr 2026)",
+    "4 long-form + 26 Shorts + 1 podcast a month (was 6 long-form)",
+    "6 formats in regular rotation",
+    "17 episodes released",
+    "500K+ views on “Which Serum to Use?”",
+    "About 3x YouTube-referred store sessions, year on year",
+    "14M+ organic views in 13 months",
+    "73K+ organic watch hours in 13 months",
+    "About 85% paid, 15% organic share of channel views (case 04 chart only)",
+    "Instagram reach up 38% (About timeline, CoinGape)",
+    "Videos reaching 1.6M+ views on a 10.5M-subscriber channel (About timeline, WION)"
+  ],
+  "identity": {
+    "name": "Riya Gandhi",
+    "role": "Content Marketing Manager",
+    "oneLiner": "Journalism-trained, building audiences that come back.",
+    "location": "Gurugram, India",
+    "availability": "Available immediately",
+    "wordmark": "Riya",
+    "headerWordmark": "RIYA"
+  },
+  "contact": {
+    "email": "itsriyagandhi@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/itsriyagandhi",
+    "youtube": "https://www.youtube.com/@itsRiyaGandhi",
+    "resumeFile": "Riya_Gandhi_Resume.pdf",
+    "resumeButton": "Download resume (PDF)",
+    "whatsappDisplay": "+91-7011743802",
+    "whatsapp": "https://wa.me/917011743802"
+  },
+  "menu": [
+    {
+      "label": "Work",
+      "href": "work.html"
+    },
+    {
+      "label": "About",
+      "href": "about.html"
+    },
+    {
+      "label": "B-roll",
+      "href": "b-roll.html"
+    },
+    {
+      "label": "The monthly mix",
+      "href": "case-monthly-mix.html"
+    },
+    {
+      "label": "The podcast",
+      "href": "case-podcast.html"
+    },
+    {
+      "label": "The content engine",
+      "href": "case-content-engine.html"
+    },
+    {
+      "label": "Paid vs organic",
+      "href": "case-paid-vs-organic.html"
+    }
+  ],
+  "menuBottom": [
+    {
+      "label": "LinkedIn",
+      "key": "linkedin"
+    },
+    {
+      "label": "YouTube",
+      "key": "youtube"
+    },
+    {
+      "label": "Email",
+      "key": "email"
+    },
+    {
+      "label": "WhatsApp",
+      "key": "whatsapp"
+    }
+  ],
+  "sayHi": {
+    "kicker": "Fastest way to reach me is email.",
+    "bigLink": "itsriyagandhi@gmail.com",
+    "pills": [
+      {
+        "label": "LinkedIn",
+        "key": "linkedin"
+      },
+      {
+        "label": "YouTube",
+        "key": "youtube"
+      },
+      {
+        "label": "WhatsApp",
+        "key": "whatsapp"
+      },
+      {
+        "label": "Resume",
+        "key": "resume"
+      }
+    ]
+  },
+  "footer": {
+    "marquee": "STILL HERE? THAT’S THE WHOLE JOB.",
+    "columnLabels": [
+      "Pages",
+      "Case studies",
+      "Elsewhere"
+    ],
+    "legal": "Handmade in Gurugram. © 2026 Riya Gandhi."
+  },
+  "seo": {
+    "index": {
+      "title": "Riya Gandhi | Content Marketing Manager",
+      "description": "Riya Gandhi is a content marketing manager in Gurugram. Journalism-trained, she runs content strategy, SEO, video and podcasts audiences come back to."
+    },
+    "work": {
+      "title": "Work | Riya Gandhi",
+      "description": "Four content marketing case studies by Riya Gandhi: a channel strategy reset, an original podcast, a multi-format content engine and attribution."
+    },
+    "about": {
+      "title": "About | Riya Gandhi",
+      "description": "From newsrooms to brands: Riya Gandhi’s career in writing, video, social and content strategy, and the lessons that shape her work."
+    },
+    "b-roll": {
+      "title": "B-roll | Riya Gandhi",
+      "description": "Behind the camera on Riya Gandhi’s shoots: the set, the monitor and the podcast studio."
+    },
+    "case-monthly-mix": {
+      "title": "The monthly mix | Riya Gandhi",
+      "description": "How Riya Gandhi rebuilt a brand’s monthly content plan around long-form, Shorts and a podcast, guided by organic data."
+    },
+    "case-podcast": {
+      "title": "The podcast | Riya Gandhi",
+      "description": "How Riya Gandhi conceived, scripted, co-hosted and produced Clinikally Approved, a 17-episode branded health podcast."
+    },
+    "case-content-engine": {
+      "title": "The content engine | Riya Gandhi",
+      "description": "How Riya Gandhi turned one shoot day into six content formats, with a scripting standard, repurposing and SEO built in."
+    },
+    "case-paid-vs-organic": {
+      "title": "Paid vs organic | Riya Gandhi",
+      "description": "How Riya Gandhi separated paid from organic results and pushed content attribution toward store traffic."
+    },
+    "shareImage": {
+      "line1": "CONTENT MARKETING MANAGER",
+      "line2": "Riya Gandhi"
+    },
+    "searchProfile": {
+      "name": "Riya Gandhi",
+      "jobTitle": "Content Marketing Manager",
+      "addressLocality": "Gurugram",
+      "addressCountry": "India",
+      "alumniOf": [
+        "Asian College of Journalism",
+        "The NorthCap University"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/itsriyagandhi",
+        "https://www.youtube.com/@itsRiyaGandhi"
+      ]
+    }
+  },
+  "home": {
+    "hero": {
+      "nameLine": "I’m Riya",
+      "role": "CONTENT MARKETING MANAGER",
+      "subLine": "Journalism-trained, building audiences that come back.",
+      "proofLine": "Most recently: grew a healthcare brand’s YouTube from 49.2K to 100K subscribers and built its 17-episode podcast from a blank page.",
+      "buttons": [
+        "See the work",
+        "Download resume (PDF)"
+      ],
+      "badge": "AVAILABLE IMMEDIATELY ✱ GURUGRAM ✱",
+      "hiddenHeading": "Hello, I’m Riya Gandhi. Content marketing manager."
+    },
+    "pullQuote": {
+      "quote": "will they stay?",
+      "caption": "the one question I ask of every piece."
+    },
+    "whoIAm": {
+      "statement": "I MAKE CONTENT PEOPLE FINISH.",
+      "paragraph": "I started in newsrooms, where you learn to find the real story fast. Then I took that instinct into brands: planning, writing, producing and measuring content across YouTube, podcasts, social and the written word. My loop is simple: plan the month, make the work, check what the audience actually did, change the plan. About four years in, it’s still my favourite part of the job.",
+      "buttons": [
+        "See the work",
+        "Say hi"
+      ],
+      "skills": [
+        "Content strategy",
+        "Editorial calendars",
+        "SEO",
+        "Video and podcast production",
+        "Scripting and brand voice",
+        "Creator and doctor partnerships",
+        "Performance reporting",
+        "Content budgets"
+      ]
+    },
+    "workStripHeading": "THE WORK, IN FOUR CHAPTERS.",
+    "brands": {
+      "heading": "BRANDS I HAVE WORKED WITH",
+      "items": [
+        {
+          "name": "UniFit Realty",
+          "slug": "unifit-realty"
+        },
+        {
+          "name": "WION",
+          "slug": "wion"
+        },
+        {
+          "name": "CoinGape",
+          "slug": "coingape"
+        },
+        {
+          "name": "Inc42",
+          "slug": "inc42"
+        },
+        {
+          "name": "Clinikally",
+          "slug": "clinikally"
+        }
+      ]
+    }
+  },
+  "work": {
+    "backgroundWord": "STAY",
+    "heading": "PROOF THEY STAYED.",
+    "line": "four case studies. every number has a source.",
+    "endLink": "Want the backstory? → About.",
+    "storyline": [
+      "will they stay?",
+      "PROOF THEY STAYED.",
+      "STILL HERE? THAT’S THE WHOLE JOB."
+    ],
+    "inPrint": {
+      "heading": "IN PRINT",
+      "line": "written features from my time at Inc42.",
+      "source": "Inc42",
+      "articles": [
+        {
+          "title": "How Medyseva is solving the doctor drought in rural India with a phygital telemedicine model",
+          "url": "https://inc42.com/startups/how-medyseva-is-solving-the-doctor-drought-in-rural-india-with-a-phygital-telemedicine-model/"
+        },
+        {
+          "title": "How startups and enterprises harness AI-powered data insights to drive business growth",
+          "url": "https://inc42.com/buzz/how-startups-enterprises-harness-ai-powered-data-insights-to-drive-business-growth/"
+        },
+        {
+          "title": "AI on trading floors: Can AlgoBulls make automated trading mainstream in India?",
+          "url": "https://inc42.com/startups/ai-on-trading-floors-can-algobulls-make-automated-trading-mainstream-in-india/"
+        }
+      ]
+    },
+    "endLabels": {
+      "nextCase": "Next case",
+      "allWork": "All work"
+    }
+  },
+  "cases": [
+    {
+      "id": "case-monthly-mix",
+      "number": "01",
+      "menuLabel": "The monthly mix",
+      "cardTitle": "THE MONTHLY MIX",
+      "accessibleName": "Case 01: The monthly mix",
+      "hook": "i changed the monthly mix. here’s why.",
+      "resultLine": "49.2K to 100K subscribers",
+      "tagsLine": "content strategy / planning",
+      "colours": {
+        "bg": "#F2603B",
+        "ink": "#0B0B0B"
+      },
+      "label": "CASE 01 / 04",
+      "title": "4 LONG VIDEOS. 26 Shorts. ONE PLAN.",
+      "accentWord": "Shorts",
+      "tags": "Content strategy · Planning · Analytics",
+      "brief": "Grow an audience the brand owns, instead of renting reach with ads.",
+      "myRole": "Owned the content plan end to end: strategy, scripts, shoot schedule, SEO, reporting, and the budget across ads, creator Shorts and production.",
+      "result": "49.2K to 100K subscribers in 19 months.",
+      "pullLine": "Fewer, better pieces. A clear job for every format.",
+      "intro": [
+        "Before the reset, the channel published six long-form videos a month and leaned on ads for reach. Subscribers kept climbing, but the audience data showed retention slipping.",
+        "I rebuilt the monthly plan around what the data rewarded: four long-form videos and twenty-six Shorts, with the podcast recorded on the long-form shoot day. Fewer, better pieces, and a clear job for every format."
+      ],
+      "evidence": [
+        {
+          "type": "chart",
+          "title": "monthly output, before and after",
+          "before": {
+            "label": "before",
+            "items": [
+              {
+                "label": "6 long-form",
+                "value": 6
+              }
+            ]
+          },
+          "after": {
+            "label": "after",
+            "items": [
+              {
+                "label": "4 long-form",
+                "value": 4
+              },
+              {
+                "label": "26 Shorts",
+                "value": 26
+              },
+              {
+                "label": "1 podcast",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "type": "card",
+          "title": "one job per format",
+          "lines": [
+            "Long-form: watch time and trust.",
+            "Shorts: discovery and subscribers.",
+            "Podcast: depth and loyalty."
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "label": "What the data said",
+          "body": [
+            "Ad-driven views were inflating the totals. Once paid and organic were read separately, the pattern was clear: long-form earned the watch time, and Shorts brought in the subscribers. So I stopped treating every piece of content as equal and gave each format one job."
+          ]
+        },
+        {
+          "label": "How I sold it internally",
+          "body": [
+            "Cutting output sounds like doing less. I made the case with the brand’s own data: which formats earned attention without ad support, and what each one was for. The plan was approved and became the monthly model."
+          ]
+        }
+      ],
+      "impactIntro": "The channel over the same period.",
+      "impact": [
+        {
+          "number": "49.2K to 100K",
+          "label": "subscribers in 19 months."
+        },
+        {
+          "number": "7 months in a row",
+          "label": "above 1M organic views (Oct 2025 to Apr 2026)."
+        }
+      ],
+      "footnote": "Source: YouTube Studio export. Subscriber growth is channel-wide. Organic views exclude paid ad campaigns.",
+      "next": "Give every format a business goal as well as a platform goal: long-form for search and consultations, Shorts for new audiences, the podcast for loyalty, each with its own number.",
+      "thumbs": [
+        {
+          "type": "svg-chart",
+          "alt": "Mini chart of monthly output. Before: 6 long-form. After: 4 long-form, 26 Shorts, 1 podcast."
+        },
+        {
+          "type": "image",
+          "src": "frame-two-chairs-thumb",
+          "alt": "A podcast studio with two people in orange armchairs, a large softbox light and a camera monitor."
+        }
+      ]
+    },
+    {
+      "id": "case-podcast",
+      "number": "02",
+      "menuLabel": "The podcast",
+      "cardTitle": "THE PODCAST",
+      "accessibleName": "Case 02: The podcast",
+      "hook": "i built a podcast from a blank page.",
+      "resultLine": "17 episodes, original brand IP",
+      "tagsLine": "original ip / brand storytelling",
+      "colours": {
+        "bg": "#B0523A",
+        "ink": "#FFF4EC"
+      },
+      "label": "CASE 02 / 04",
+      "title": "I BUILT A podcast FROM A BLANK PAGE",
+      "accentWord": "podcast",
+      "tags": "Original IP · Brand storytelling · Hosting",
+      "brief": "Give a clinical brand a warmer, more human voice that people choose to spend time with.",
+      "myRole": "Proposed the format, wrote the scripts, co-hosted, and ran production and post-production.",
+      "result": "17 episodes; one passed 500K views.",
+      "pullLine": "Expert answers, without needing a medical degree.",
+      "topImage": "podcast",
+      "intro": [
+        "Clinikally Approved did not exist until I proposed it. A clinical brand needed a warmer voice, so I designed a format that puts a doctor’s expertise next to a curious everyday host asking the questions viewers actually have.",
+        "I co-host with Dr. Sarkar and Dr. Tasya, write the scripts, and produced the show from the first episode to the seventeenth."
+      ],
+      "evidence": [
+        {
+          "type": "episode",
+          "title": "Which Serum to Use? | Doctor’s Skincare Tips | Clinikally Approved Podcast",
+          "caption": "which serum to use? the most-watched episode.",
+          "episodeUrl": ""
+        },
+        {
+          "type": "card",
+          "title": "three script rules",
+          "lines": [
+            "No jargon without a plain-language explanation.",
+            "Use Indian analogies: dahi, Delhi’s air quality, rupee prices.",
+            "Swap technical words for plain ones, like “good bacteria”."
+          ]
+        },
+        {
+          "type": "link",
+          "text": "More on my YouTube channel",
+          "display": "youtube.com/@itsRiyaGandhi",
+          "key": "youtube"
+        }
+      ],
+      "sections": [
+        {
+          "label": "The format",
+          "body": [
+            "Each episode follows a simple spine: a short intro from me, a numbered run of questions, and a clear outro. I play the curious, relatable voice. The doctor plays the expert. The audience gets answers without needing a medical degree."
+          ]
+        },
+        {
+          "label": "Beyond the show",
+          "body": [
+            "I hosted and moderated the brand’s public webinar, “Uncomplicated: Skincare, Simplified by Dermatologists and AI”, with doctors, a nutritionist and a live demo of the brand’s AI routine builder."
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "number": "17",
+          "label": "episodes released."
+        },
+        {
+          "number": "500K+",
+          "label": "views on one episode, “Which Serum to Use?”"
+        }
+      ],
+      "footnote": "Source: YouTube Studio.",
+      "next": "Launch each episode clip-first, with three Shorts out before the full episode, and rotate guest doctors to widen reach without changing the format.",
+      "thumbs": [
+        {
+          "type": "image",
+          "src": "podcast-thumb",
+          "alt": "Riya Gandhi in a terracotta armchair on the podcast set, holding a tablet."
+        },
+        {
+          "type": "image",
+          "src": "frame-softbox-thumb",
+          "alt": "A large black softbox light in the foreground, with a camera on a tripod behind it."
+        }
+      ]
+    },
+    {
+      "id": "case-content-engine",
+      "number": "03",
+      "menuLabel": "The content engine",
+      "cardTitle": "THE CONTENT ENGINE",
+      "accessibleName": "Case 03: The content engine",
+      "hook": "one shoot day, six formats. here’s the system.",
+      "resultLine": "4 long-form + 26 Shorts a month",
+      "tagsLine": "content ops / seo / scripting",
+      "colours": {
+        "bg": "#A3B09C",
+        "ink": "#0B0B0B"
+      },
+      "label": "CASE 03 / 04",
+      "title": "ONE SHOOT DAY. SIX formats.",
+      "accentWord": "formats",
+      "tags": "Content operations · SEO · Scripting",
+      "brief": "A lean team cannot out-post bigger brands, so every shoot had to do several jobs.",
+      "myRole": "Designed the system and ran it: calendar, scripts, shoot batching, repurposing, SEO, approvals and publishing.",
+      "result": "4 long-form + 26 Shorts + 1 podcast a month, from batched shoots.",
+      "pullLine": "A lean team can’t out-post bigger brands. It can out-plan them.",
+      "intro": [
+        "I built a system where one shoot day with Dr. Sarkar feeds every format the channel runs. It rests on three habits: a standard script structure, batched shoots, and a repurposing pass that turns each recording into several pieces.",
+        "The result is a steady monthly cadence from a small team, with search built into every piece."
+      ],
+      "evidence": [
+        {
+          "type": "flow",
+          "title": "the engine",
+          "steps": [
+            "Plan",
+            "Script (TSYS)",
+            "Batched shoot",
+            "Edit",
+            "Repurpose",
+            "SEO package",
+            "Publish",
+            "Report"
+          ],
+          "loop": "back to Plan"
+        },
+        {
+          "type": "card",
+          "title": "six formats",
+          "lines": [
+            "long-form",
+            "Shorts",
+            "podcast",
+            "vox pops",
+            "Shorts cut from long-form",
+            "Shorts cut from the podcast"
+          ]
+        },
+        {
+          "type": "lanes",
+          "title": "script order",
+          "before": {
+            "label": "Before",
+            "steps": [
+              "Hook",
+              "Intro",
+              "Science",
+              "Solution"
+            ],
+            "note": "viewers leave here",
+            "noteAt": "0:50"
+          },
+          "after": {
+            "label": "After",
+            "steps": [
+              "Teaser",
+              "Tell",
+              "Show",
+              "Yield",
+              "Summarize"
+            ]
+          },
+          "caption": "an illustration of structure, not data."
+        }
+      ],
+      "sections": [
+        {
+          "label": "The scripting standard: TSYS",
+          "body": [
+            "Long-form videos were losing viewers at around the 50-second mark: the reason to care arrived too late. I built TSYS (Tell, Show, Yield, Summarize), a context-first structure that uses short teasers to front-load why the video matters. It became the channel’s long-form scripting standard."
+          ],
+          "list": [
+            "Tell: say why it matters, up front.",
+            "Show: give the visual proof.",
+            "Yield: deliver the answer.",
+            "Summarize: leave one thing to remember."
+          ]
+        },
+        {
+          "label": "One recording, many pieces, all searchable",
+          "body": [
+            "Shoots are batched around the doctor’s time, and every podcast and long-form recording is cut for Shorts. I pull the moments from the transcript, so the clip list is ready before the edit starts. Every piece then ships with an SEO package: title options, a description, hashtags, search terms and tags, written around how people actually search."
+          ]
+        },
+        {
+          "label": "Beyond the channel",
+          "body": [
+            "I scripted Instagram Shorts for creator partners, wrote vox pop question sets, and onboarded new doctors onto the shoot calendar, so the brand added voices without adding a new production process."
+          ]
+        },
+        {
+          "label": "The workflow",
+          "body": [
+            "The editor cuts, the creative manager reviews, and I approve and publish. I owned the calendar, scripts, deadlines and final sign-off, and wrote the onboarding guide for new editors."
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "number": "4 + 26 + 1",
+          "label": "long-form, Shorts and podcast episodes a month, from batched shoots."
+        },
+        {
+          "number": "6",
+          "label": "content formats in regular rotation."
+        },
+        {
+          "number": "TSYS",
+          "label": "the channel’s long-form scripting standard."
+        }
+      ],
+      "footnote": "",
+      "next": "Turn the engine into templates and a shared clip library, so a second editor or a new channel can run it without me in the room.",
+      "thumbs": [
+        {
+          "type": "image",
+          "src": "onset-thumb",
+          "alt": "A podcast studio with two people in orange armchairs, a large softbox light and a camera monitor."
+        },
+        {
+          "type": "image",
+          "src": "frame-crew-thumb",
+          "alt": "Crew seated beside cameras, tripods, coiled cables and a monitor."
+        }
+      ]
+    },
+    {
+      "id": "case-paid-vs-organic",
+      "number": "04",
+      "menuLabel": "Paid vs organic",
+      "cardTitle": "PAID VS ORGANIC",
+      "accessibleName": "Case 04: Paid vs organic",
+      "hook": "which results were actually ours?",
+      "resultLine": "about 3x store sessions from YouTube",
+      "tagsLine": "measurement / attribution",
+      "colours": {
+        "bg": "#1F3A68",
+        "ink": "#FFFFFF"
+      },
+      "label": "CASE 04 / 04",
+      "title": "WHICH RESULTS WERE really OURS?",
+      "accentWord": "really",
+      "tags": "Measurement · Attribution · Reporting",
+      "brief": "Show what content earned on its own, and connect it to the business.",
+      "myRole": "Built the reporting from YouTube Studio and store data, set the measurement rules the plan ran on, and presented performance and budget summaries to the founder.",
+      "result": "About 3x YouTube-referred store sessions, year on year.",
+      "pullLine": "Blended numbers flatter the team and mislead the plan.",
+      "intro": [
+        "Total views can hide the story. Paid ad campaigns can account for most of a channel’s views, and they say very little about what the content earns by itself.",
+        "I built the reporting that separates paid from organic, then went a step further and traced content toward the store, so every plan started from what the content actually earned."
+      ],
+      "evidence": [
+        {
+          "type": "bar",
+          "label": "where the views came from",
+          "segments": [
+            {
+              "label": "paid",
+              "value": "85%"
+            },
+            {
+              "label": "organic",
+              "value": "15%"
+            }
+          ],
+          "caption": "share of channel views, about 13 months. source: YouTube Studio."
+        }
+      ],
+      "sections": [
+        {
+          "label": "How I split it",
+          "body": [
+            "I export video-level data from YouTube Studio, tag the videos that were ad campaigns, and rebuild every total for organic content only. Then I read the trends by format: long-form, Shorts and podcast."
+          ]
+        },
+        {
+          "label": "From views to the store",
+          "body": [
+            "Views are not the goal. I compared YouTube-referred store sessions year on year in Shopify, and they had grown about 3x. I also found that purchases completing in a separate checkout were invisible to the dashboard, so the reported conversion rate badly understated what content was driving. I recommended UTM links on every video so content could get credit for the sales it brings in."
+          ]
+        }
+      ],
+      "impact": [
+        {
+          "number": "About 3x",
+          "label": "YouTube-referred store sessions, year on year."
+        },
+        {
+          "number": "14M+",
+          "label": "organic views in 13 months."
+        },
+        {
+          "number": "73K+",
+          "label": "organic watch hours in 13 months."
+        }
+      ],
+      "footnote": "Sources: YouTube Studio export and Shopify. Paid and organic are reported separately.",
+      "next": "UTM links on every video from day one, and a monthly content-to-revenue report that sits next to the views report, not behind it.",
+      "thumbs": [
+        {
+          "type": "svg-bar",
+          "alt": "Mini bar: paid 85%, organic 15% share of channel views."
+        },
+        {
+          "type": "svg-card",
+          "alt": "Card reading About 3x, YouTube-referred store sessions, year on year."
+        }
+      ]
+    }
+  ],
+  "about": {
+    "statement": "A JOURNALIST WHO LEARNED TO MAKE THE ALGORITHM CARE.",
+    "subLine": "newsroom first. brands second. the audience always.",
+    "photo": "onset",
+    "shortBio": "I’m a content marketing manager in Gurugram, trained as a journalist at the Asian College of Journalism. I’ve written for Inc42, produced video for WION and CoinGape, run social for a real estate brand, and most recently owned a healthcare brand’s YouTube, podcast and creator content end to end. I plan around the audience, write for one person, and judge the work by what people actually did.",
+    "toolkit": [
+      "YouTube Studio",
+      "Google Ads",
+      "Shopify analytics",
+      "VidIQ",
+      "Excel",
+      "Descript",
+      "OpusClip",
+      "Captions.ai",
+      "Notion",
+      "n8n",
+      "Claude"
+    ],
+    "careerLabel": "newest first",
+    "careerHeading": "Career so far",
+    "career": [
+      {
+        "dates": "Feb 2025 to Oct 2026",
+        "title": "YouTube Manager",
+        "company": "Clinikally (YC S22)",
+        "field": "Healthcare and dermatology",
+        "line": "Owned the brand’s video content end to end: strategy, scripts, production, SEO, analytics and budget. Built the podcast, scripted creator Shorts and hosted the public webinar."
+      },
+      {
+        "dates": "Sep 2024 to Jan 2025",
+        "title": "Video Producer",
+        "company": "Inc42 Media",
+        "field": "startup media",
+        "line": "Produced founder-led video and branded editorial, and wrote features on startups and AI."
+      },
+      {
+        "dates": "Jan 2024 to Jun 2024",
+        "title": "Video Journalist",
+        "company": "CoinGape News",
+        "field": "crypto and tech",
+        "line": "Grew Instagram reach 38% with keyword-led content, and produced SEO-optimised explainer video for crypto and tech audiences."
+      },
+      {
+        "dates": "Jun 2023 to Dec 2023",
+        "title": "Digital Journalist",
+        "company": "WION (World Is One News)",
+        "field": "news",
+        "line": "Produced digital video for a 10.5M-subscriber channel, with videos reaching 1.6M+ views, and adapted broadcast news into digital-first formats."
+      },
+      {
+        "dates": "2022 to 2023",
+        "title": "PG Diploma in Multimedia Journalism",
+        "company": "Asian College of Journalism",
+        "field": "education",
+        "line": ""
+      },
+      {
+        "dates": "Dec 2020 to Mar 2022",
+        "title": "Social Media Executive",
+        "company": "UniFit India",
+        "field": "real estate",
+        "line": "Planned and ran community-led social campaigns, using engagement data to refine messaging."
+      },
+      {
+        "dates": "2017 to 2020",
+        "title": "BBA",
+        "company": "The NorthCap University",
+        "field": "education",
+        "line": ""
+      }
+    ],
+    "employers": [
+      "Clinikally",
+      "Inc42 Media",
+      "CoinGape News",
+      "WION",
+      "UniFit India"
+    ],
+    "certificationsHeading": "Certifications",
+    "certifications": [
+      {
+        "issuer": "Thomson Foundation",
+        "title": "“AI in the Newsroom: The Ethical Approach”"
+      },
+      {
+        "issuer": "Reuters and Meta Journalism Project",
+        "title": "“Introduction to Digital Journalism”"
+      }
+    ],
+    "lessonsHeading": "Six things the job taught me",
+    "lessons": [
+      "FIND THE REAL STORY FIRST.",
+      "STRUCTURE IT BEFORE YOU STYLE IT.",
+      "NEVER ASSUME THE AUDIENCE IS STILL WATCHING.",
+      "KEEP PAID AND ORGANIC NUMBERS APART.",
+      "FEWER, BETTER BEATS MORE, FASTER.",
+      "ASK WHAT THE NUMBER IS FOR."
+    ]
+  },
+  "broll": {
+    "title": "B-ROLL",
+    "subLine": "behind the camera.",
+    "items": [
+      {
+        "id": "onset",
+        "type": "image",
+        "src": "onset",
+        "caption": "on set, monitor up",
+        "alt": "A podcast studio with two people in orange armchairs, a large softbox light and a camera monitor."
+      },
+      {
+        "id": "podcast",
+        "type": "image",
+        "src": "podcast",
+        "caption": "tablet, questions, armchair",
+        "alt": "Riya Gandhi in a terracotta armchair on the podcast set, holding a tablet."
+      },
+      {
+        "id": "video",
+        "type": "video",
+        "src": "studio-pan",
+        "caption": "studio pan, sound off",
+        "alt": "A slow pan around the podcast studio set."
+      },
+      {
+        "id": "two-chairs",
+        "type": "image",
+        "src": "frame-two-chairs",
+        "caption": "two chairs, one softbox",
+        "alt": "A podcast studio with two people in orange armchairs, a large softbox light and a camera monitor."
+      },
+      {
+        "id": "crew",
+        "type": "image",
+        "src": "frame-crew",
+        "caption": "crew, cables, monitor",
+        "alt": "Crew seated beside cameras, tripods, coiled cables and a monitor."
+      },
+      {
+        "id": "softbox",
+        "type": "image",
+        "src": "frame-softbox",
+        "caption": "softbox up front",
+        "alt": "A large black softbox light in the foreground, with a camera on a tripod behind it."
+      }
+    ]
+  },
+  "images": {
+    "hero": {
+      "alt": "Riya Gandhi smiling in a dark green floral velvet blouse, outdoors in front of palm leaves."
+    },
+    "onset": {
+      "alt": "A podcast studio with two people in orange armchairs, a large softbox light and a camera monitor."
+    },
+    "podcast": {
+      "alt": "Riya Gandhi in a terracotta armchair on the podcast set, holding a tablet."
+    },
+    "studio-pan": {
+      "alt": "A slow pan around the podcast studio set."
+    },
+    "frame-two-chairs": {
+      "alt": "A podcast studio with two people in orange armchairs, a large softbox light and a camera monitor."
+    },
+    "frame-crew": {
+      "alt": "Crew seated beside cameras, tripods, coiled cables and a monitor."
+    },
+    "frame-softbox": {
+      "alt": "A large black softbox light in the foreground, with a camera on a tripod behind it."
+    }
+  },
+  "ui": {
+    "wordmark": "RIYA",
+    "aboutMe": "ABOUT ME",
+    "menu": "MENU",
+    "contact": "CONTACT",
+    "close": "CLOSE ×",
+    "skip": "Skip to content",
+    "changeMood": "Change mood",
+    "mood": "Mood",
+    "moods": [
+      "Light",
+      "Dark",
+      "Paper"
+    ],
+    "copy": "Copy",
+    "copied": "Copied",
+    "play": "Play",
+    "pause": "Pause",
+    "fullscreen": "Fullscreen",
+    "arrows": [
+      "←",
+      "→",
+      "↗",
+      "↓"
+    ],
+    "readFullStory": "Read the full story",
+    "seeTheWork": "See the work",
+    "sayHi": "Say hi",
+    "allWork": "All work",
+    "nextCase": "Next case",
+    "education": "education"
+  },
+  "caseLabels": {
+    "brief": "Brief",
+    "myRole": "My role",
+    "result": "Result",
+    "impact": "Impact",
+    "next": "What I’d do next"
+  }
+}

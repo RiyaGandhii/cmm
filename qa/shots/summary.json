@@ -1,0 +1,529 @@
+[
+ {
+  "page": "index",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "index-390.png"
+ },
+ {
+  "page": "index",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "index-768.png"
+ },
+ {
+  "page": "index",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "hero": {
+   "viewport": 768,
+   "role": {
+    "top": 299,
+    "bottom": 446,
+    "left": 40,
+    "right": 820
+   },
+   "btn1": {
+    "top": 615,
+    "bottom": 659,
+    "left": 40,
+    "right": 155
+   },
+   "btn2": {
+    "top": 615,
+    "bottom": 659,
+    "left": 187,
+    "right": 372
+   },
+   "pic": {
+    "top": 88,
+    "bottom": 641,
+    "left": 884,
+    "right": 1326
+   }
+  },
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "index-1366.png"
+ },
+ {
+  "page": "index",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "hero": {
+   "viewport": 900,
+   "role": {
+    "top": 308,
+    "bottom": 455,
+    "left": 40,
+    "right": 818
+   },
+   "btn1": {
+    "top": 625,
+    "bottom": 669,
+    "left": 40,
+    "right": 157
+   },
+   "btn2": {
+    "top": 625,
+    "bottom": 669,
+    "left": 189,
+    "right": 377
+   },
+   "pic": {
+    "top": 88,
+    "bottom": 736,
+    "left": 882,
+    "right": 1400
+   }
+  },
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "index-1440.png"
+ },
+ {
+  "page": "index",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "index-1440-rm.png"
+ },
+ {
+  "page": "index",
+  "w": 1440,
+  "h": 900,
+  "mood": "dark",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "index-1440-dark.png"
+ },
+ {
+  "page": "index",
+  "w": 1440,
+  "h": 900,
+  "mood": "paper",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "index-1440-paper.png"
+ },
+ {
+  "page": "index",
+  "w": 390,
+  "h": 844,
+  "mood": "dark",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "index-390-dark.png"
+ },
+ {
+  "page": "work",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "work-390.png"
+ },
+ {
+  "page": "work",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "work-768.png"
+ },
+ {
+  "page": "work",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "work-1366.png"
+ },
+ {
+  "page": "work",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "work-1440.png"
+ },
+ {
+  "page": "work",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "work-1440-rm.png"
+ },
+ {
+  "page": "about",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "about-390.png"
+ },
+ {
+  "page": "about",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "about-768.png"
+ },
+ {
+  "page": "about",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "about-1366.png"
+ },
+ {
+  "page": "about",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "about-1440.png"
+ },
+ {
+  "page": "about",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "about-1440-rm.png"
+ },
+ {
+  "page": "b-roll",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "b-roll-390.png"
+ },
+ {
+  "page": "b-roll",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "b-roll-768.png"
+ },
+ {
+  "page": "b-roll",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "b-roll-1366.png"
+ },
+ {
+  "page": "b-roll",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "b-roll-1440.png"
+ },
+ {
+  "page": "b-roll",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "b-roll-1440-rm.png"
+ },
+ {
+  "page": "case-monthly-mix",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "case-monthly-mix-390.png"
+ },
+ {
+  "page": "case-monthly-mix",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "case-monthly-mix-768.png"
+ },
+ {
+  "page": "case-monthly-mix",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "case-monthly-mix-1366.png"
+ },
+ {
+  "page": "case-monthly-mix",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-monthly-mix-1440.png"
+ },
+ {
+  "page": "case-monthly-mix",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-monthly-mix-1440-rm.png"
+ },
+ {
+  "page": "case-podcast",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "case-podcast-390.png"
+ },
+ {
+  "page": "case-podcast",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "case-podcast-768.png"
+ },
+ {
+  "page": "case-podcast",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "case-podcast-1366.png"
+ },
+ {
+  "page": "case-podcast",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-podcast-1440.png"
+ },
+ {
+  "page": "case-podcast",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-podcast-1440-rm.png"
+ },
+ {
+  "page": "case-content-engine",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "case-content-engine-390.png"
+ },
+ {
+  "page": "case-content-engine",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "case-content-engine-768.png"
+ },
+ {
+  "page": "case-content-engine",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "case-content-engine-1366.png"
+ },
+ {
+  "page": "case-content-engine",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-content-engine-1440.png"
+ },
+ {
+  "page": "case-content-engine",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-content-engine-1440-rm.png"
+ },
+ {
+  "page": "case-paid-vs-organic",
+  "w": 390,
+  "h": 844,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "errors": [],
+  "shot": "case-paid-vs-organic-390.png"
+ },
+ {
+  "page": "case-paid-vs-organic",
+  "w": 768,
+  "h": 1024,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 768,
+  "innerWidth": 768,
+  "errors": [],
+  "shot": "case-paid-vs-organic-768.png"
+ },
+ {
+  "page": "case-paid-vs-organic",
+  "w": 1366,
+  "h": 768,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1366,
+  "innerWidth": 1366,
+  "errors": [],
+  "shot": "case-paid-vs-organic-1366.png"
+ },
+ {
+  "page": "case-paid-vs-organic",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": false,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-paid-vs-organic-1440.png"
+ },
+ {
+  "page": "case-paid-vs-organic",
+  "w": 1440,
+  "h": 900,
+  "mood": "light",
+  "rm": true,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "errors": [],
+  "shot": "case-paid-vs-organic-1440-rm.png"
+ }
+]
