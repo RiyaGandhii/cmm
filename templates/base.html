@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-IN" data-mood="light" class="{{html_class}}" style="{{html_style}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<meta name="theme-color" content="{{theme}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:image" content="assets/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{title}}">
+<meta name="twitter:description" content="{{description}}">
+<meta name="twitter:image" content="assets/og-image.jpg">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>(function(){var h=document.documentElement;h.classList.add('js');try{var m=localStorage.getItem('mood');if(m==='dark'||m==='paper'||m==='light'){h.setAttribute('data-mood',m)}}catch(e){}})()</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Inter:wght@400..700&display=swap">
+<link rel="stylesheet" href="assets/css/styles.css">
+{{jsonld}}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+{{header}}
+<main id="main" tabindex="-1">
+{{main}}
+</main>
+{{footer}}
+{{bar}}
+{{veil}}
+{{panel}}
+{{menu}}
+{{extra}}
+<script src="assets/js/main.js" defer></script>
+</body>
+</html>
